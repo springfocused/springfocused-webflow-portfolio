@@ -1,5 +1,5 @@
 
-# springfocused™ — Portfolio Website (IM5)
+# springfocused™ — Portfolio Website, Rabih Haj-Hassan (IM5)
 
 ## Persönliche Reflexion
 
